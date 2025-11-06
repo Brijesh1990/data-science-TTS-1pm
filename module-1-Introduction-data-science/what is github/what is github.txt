@@ -1,0 +1,32 @@
+what is github  ?
+
+  github is an product of microsoft
+  github is an server 
+  github create respository(public | private)
+  github used commands 
+
+download git(gitbash) ... 
+  git is an software
+  git is used to push data or commit local data on github server
+  
+
+github commands ...
+
+https://github.com/Brijesh1990/data-science-TTS-1pm.git
+
+1) git init
+2) git add .
+3) git commit -m "first commit"
+4) git remote add origin https://github.com/Brijesh1990/data-science-TTS-1pm.git
+5) git push -u origin master
+
+
+create a clone of your data ...
+
+  git clone https://github.com/Brijesh1990/data-science-TTS-1pm.git
+
+
+
+
+
+   

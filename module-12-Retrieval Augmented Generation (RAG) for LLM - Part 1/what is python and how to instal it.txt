@@ -1,0 +1,51 @@
+what is python and how to install it ? 
+
+   what is python ? 
+
+    python is an interperete base open source language
+    python is easy to lean 
+    python is used to create web apps | website | desktop apps also 
+
+    example : django(web apps and website ) | tkinter(desktop app) 
+   
+    python provides a lots of libraries and packages 
+
+    advantages of python ...
+
+    a) python is easy to learn 
+    b) python syntrax is easy to learn 
+    c) python is iterperte based language convert high level language to binary level language
+    d) python is basically used for AI | machine learning | deep learning | OS | robotics  | nero networks  | cloud computing etc.
+      
+    python installation ....
+
+
+   https://www.python.org/
+
+
+   step 1: after install check python verson and all 
+
+E:\data-science-TTS-1pm\module-1-Introduction-data-science\how to install python>py
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name="brijesh"
+>>> print(name)
+brijesh
+>>> name=input('Enter your name :')
+Enter your name :brijesh
+>>> print(name)
+brijesh
+>>>      
+    
+Note : REPL : this is command prompt
+              read | evaluate | print | loop 
+                  
+
+
+     
+
+
+
+
+
+   
