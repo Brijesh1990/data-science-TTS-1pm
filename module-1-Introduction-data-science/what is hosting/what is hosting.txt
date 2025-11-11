@@ -1,0 +1,8 @@
+what is hosting  ?
+   hosting is host yourname | website | webapps  online with any domain name
+   live webpage created via hosting provider 
+   examples : godaday | hostinger 
+   examples : https://www.flipkart.com
+   examples : github (live)
+ 
+    
