@@ -24,7 +24,31 @@
 # data analyst
 # cloud computing 
 # internet of things (IOT)
+
+# what is jupiter ?
+
+# You can install Jupyter Notebook on Windows using either Anaconda or pip. For an all-in-one installation that includes many common data science libraries, download and install the Anaconda distribution from anaconda.com, then launch Jupyter Notebook from the Anaconda Navigator. Alternatively, for a lighter-weight installation, open the command prompt and use the pip install Jupyter command after installing Python. 
+
 # how to install jupiter ?? 
+
+# jupyter is created file of python in .ipynb (python notebook)
+
+# what is pip  ? 
+#   pip stands for python install package 
+#   pip is a dependancy manager that can be used to install all librariues and packages in python. 
+
+#   examples : pip install 
+
+# command to install jupyter 
+
+# 1) pip install --upgrade pip
+# 2) pip install jupyter 
+# 3) jupyter notebook
+
+
+
+
+
 
 
 
