@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <title>Brijesh Kumar Pandey | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO -->
+  <meta name="description" content="Brijesh Kumar Pandey | Full Stack Developer, Data Science & Data Analytics">
+  <meta name="keywords" content="Portfolio, Tailwind CSS, Data Science, Data Analytics">
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-white">
+
+<!-- ================= MOBILE SIDEBAR ================= -->
+<div id="sidebar"
+     class="fixed top-0 left-0 h-full w-64 bg-white dark:bg-gray-800
+            transform -translate-x-full transition-transform duration-300
+            z-50 shadow-lg">
+
+  <div class="p-4 flex justify-between items-center border-b">
+    <h2 class="text-lg font-bold text-indigo-600">Menu</h2>
+    <button id="closeSidebar" class="text-2xl">&times;</button>
+  </div>
+
+  <nav class="flex flex-col">
+    <a href="#home" class="p-4 border-b hover:bg-gray-100">Home</a>
+    <a href="#about" class="p-4 border-b hover:bg-gray-100">About</a>
+    <a href="#skills" class="p-4 border-b hover:bg-gray-100">Skills</a>
+    <a href="#experience" class="p-4 border-b hover:bg-gray-100">Experience</a>
+    <a href="#projects" class="p-4 border-b hover:bg-gray-100">Projects</a>
+    <a href="#contact" class="p-4 hover:bg-gray-100">Contact</a>
+  </nav>
+</div>
+
+<!-- ================= HEADER ================= -->
+<header class="bg-white dark:bg-gray-800 shadow fixed w-full z-40">
+  <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+    <h1 class="text-xl font-bold text-indigo-600">
+      Brijesh Kumar Pandey
+    </h1>
+
+    <nav class="hidden md:flex space-x-6">
+      <a href="#home" class="hover:text-indigo-600">Home</a>
+      <a href="#about" class="hover:text-indigo-600">About</a>
+      <a href="#skills" class="hover:text-indigo-600">Skills</a>
+      <a href="#experience" class="hover:text-indigo-600">Experience</a>
+      <a href="#projects" class="hover:text-indigo-600">Projects</a>
+      <a href="#contact" class="hover:text-indigo-600">Contact</a>
+    </nav>
+
+    <div class="flex gap-3 items-center">
+      <button id="darkBtn" class="text-xl">🌙</button>
+      <button id="menuBtn" class="md:hidden text-2xl">☰</button>
+    </div>
+  </div>
+</header>
+
+<!-- Spacer -->
+<div class="h-20"></div>
+
+<!-- ================= HERO ================= -->
+<section id="home" class="bg-indigo-600 text-white py-20">
+  <div class="max-w-7xl mx-auto px-4 text-center">
+    <h2 class="text-4xl md:text-5xl font-bold mb-4">
+      Hi, I'm Brijesh Kumar Pandey 👋
+    </h2>
+    <p class="text-lg mb-6">
+      Full Stack Developer | Data Science | Data Analytics
+    </p>
+    <a href="#contact"
+       class="bg-white text-indigo-600 px-6 py-3 rounded-full font-semibold
+              transition hover:scale-105 inline-block">
+      Contact Me
+    </a>
+  </div>
+</section>
+
+<!-- ================= ABOUT ================= -->
+<section id="about" class="py-16">
+  <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="text-3xl font-bold mb-4">About Me</h2>
+      <p class="text-gray-600 dark:text-gray-300">
+        I am a technical trainer and developer with experience in
+        MERN Stack, PHP Laravel, Frontend Development, and
+        Data Science & Data Analytics. I enjoy teaching and building
+        responsive, clean web applications.
+      </p>
+    </div>
+    <div class="text-center">
+      <div class="w-64 h-64 bg-indigo-100 dark:bg-gray-700 rounded-full mx-auto
+                  flex items-center justify-center text-6xl">
+        👨‍💻
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= SKILLS ================= -->
+<section id="skills" class="bg-white dark:bg-gray-800 py-16">
+  <div class="max-w-7xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-10">Skills</h2>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+      <div class="p-4 shadow rounded hover:scale-105 transition">HTML</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">CSS</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">Tailwind CSS</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">JavaScript</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">React</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">Node.js</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">MongoDB</div>
+      <div class="p-4 shadow rounded hover:scale-105 transition">Python</div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= EXPERIENCE ================= -->
+<section id="experience" class="py-16">
+  <div class="max-w-7xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-10">Experience</h2>
+
+    <div class="max-w-3xl mx-auto bg-gray-100 dark:bg-gray-700 p-6 rounded shadow">
+      <h3 class="text-xl font-semibold text-indigo-600 mb-4">
+        Data Science & Data Analytics
+      </h3>
+
+      <ul class="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-200">
+        <li>Data cleaning, preprocessing, and transformation</li>
+        <li>Exploratory Data Analysis (EDA)</li>
+        <li>Worked with Pandas, NumPy, Matplotlib, Seaborn</li>
+        <li>Built basic Machine Learning models</li>
+        <li>Statistical analysis and insights generation</li>
+        <li>Created reports and dashboards</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ================= PROJECTS ================= -->
+<section id="projects" class="bg-white dark:bg-gray-800 py-16">
+  <div class="max-w-7xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-10">Projects</h2>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="p-5 shadow rounded hover:shadow-lg transition">
+        <h3 class="text-xl font-bold">Portfolio Website</h3>
+        <p class="text-gray-600 dark:text-gray-300 mt-2">
+          HTML, Tailwind CSS, JavaScript
+        </p>
+      </div>
+
+      <div class="p-5 shadow rounded hover:shadow-lg transition">
+        <h3 class="text-xl font-bold">Calculator App</h3>
+        <p class="text-gray-600 dark:text-gray-300 mt-2">
+          JavaScript Logic
+        </p>
+      </div>
+
+      <div class="p-5 shadow rounded hover:shadow-lg transition">
+        <h3 class="text-xl font-bold">Node.js API</h3>
+        <p class="text-gray-600 dark:text-gray-300 mt-2">
+          Node.js & Express
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= CONTACT ================= -->
+<section id="contact" class="py-16 bg-gray-100 dark:bg-gray-900">
+  <div class="max-w-xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-6">Contact Me</h2>
+
+    <form class="bg-white dark:bg-gray-800 p-6 rounded shadow space-y-4">
+      <input type="text" placeholder="Your Name"
+             class="w-full border p-2 rounded dark:bg-gray-700">
+      <input type="email" placeholder="Your Email"
+             class="w-full border p-2 rounded dark:bg-gray-700">
+      <textarea placeholder="Message"
+                class="w-full border p-2 rounded dark:bg-gray-700"></textarea>
+
+      <button class="w-full bg-indigo-600 text-white py-2 rounded
+                     hover:bg-indigo-700 transition">
+        Send Message
+      </button>
+    </form>
+  </div>
+</section>
+
+<!-- ================= FOOTER ================= -->
+<footer class="bg-gray-900 text-white text-center py-6">
+  <p>© 2025 Brijesh Kumar Pandey. All Rights Reserved.</p>
+  <div class="flex justify-center gap-4 mt-2">
+    <a href="#" class="hover:text-indigo-400">LinkedIn</a>
+    <a href="#" class="hover:text-indigo-400">GitHub</a>
+    <a href="#" class="hover:text-indigo-400">Instagram</a>
+  </div>
+</footer>
+
+<!-- ================= JAVASCRIPT ================= -->
+<script>
+  // Sidebar Toggle
+  const menuBtn = document.getElementById("menuBtn");
+  const sidebar = document.getElementById("sidebar");
+  const closeSidebar = document.getElementById("closeSidebar");
+
+  menuBtn.onclick = () => sidebar.classList.remove("-translate-x-full");
+  closeSidebar.onclick = () => sidebar.classList.add("-translate-x-full");
+
+  document.querySelectorAll("#sidebar a").forEach(link => {
+    link.onclick = () => sidebar.classList.add("-translate-x-full");
+  });
+
+  // Dark Mode
+  document.getElementById("darkBtn").onclick = () => {
+    document.documentElement.classList.toggle("dark");
+  };
+</script>
+
+</body>
+</html>
