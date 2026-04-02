@@ -1,0 +1,101 @@
+Employee_ID,Name,Department,Designation,Experience_Years,Salary_INR
+EMP001,Kavita,Finance,Senior Executive,12,29908
+EMP002,Amit,Operations,Manager,10,80172
+EMP003,Anita,Operations,Executive,11,61811
+EMP004,Pooja,IT,Analyst,null,43812
+EMP005,Priya,Sales,Team Lead,null,98372
+EMP006,Karan,Sales,Manager,2,119998
+EMP007,Deepak,Operations,Analyst,8,111771
+EMP008,Suresh,Marketing,Manager,6,47014
+EMP009,Rahul,Finance,Analyst,4,59071
+EMP010,Arjun,HR,Executive,12,42188
+EMP011,Arjun,Marketing,Manager,8,41785
+EMP012,Deepak,Support,Manager,14,81472
+EMP013,Swati,HR,Senior Executive,15,81624
+EMP014,Meena,IT,Senior Executive,null,74931
+EMP015,Swati,IT,Team Lead,null,40947
+EMP016,Manoj,IT,Analyst,2,42695
+EMP017,Kavita,HR,Senior Executive,5,70331
+EMP018,Manoj,HR,Analyst,6,110277
+EMP019,Suresh,Marketing,Manager,10,75539
+EMP020,Anita,Support,Analyst,6,114735
+EMP021,Ravi,Finance,Analyst,5,116374
+EMP022,Rina,Marketing,Senior Executive,8,66285
+EMP023,Meena,Sales,Manager,13,105371
+EMP024,Amit,Sales,Team Lead,2,53962
+EMP025,Neha,IT,Analyst,2,32990
+EMP026,Rahul,Support,Team Lead,11,105584
+EMP027,Manoj,Operations,Manager,2,90989
+EMP028,Swati,Sales,Manager,7,77461
+EMP029,Deepak,Finance,Analyst,15,112968
+EMP030,Meena,HR,Analyst,14,65904
+EMP031,Pooja,HR,Executive,9,98663
+EMP032,Suresh,Sales,Analyst,13,38845
+EMP033,Manoj,Support,Executive,2,115877
+EMP034,Meena,IT,Manager,10,82036
+EMP035,Swati,Support,Executive,14,90352
+EMP036,Anita,IT,Executive,5,41446
+EMP037,Arjun,HR,Executive,5,30889
+EMP038,Karan,Marketing,Manager,14,103570
+EMP039,Amit,HR,Analyst,4,89134
+EMP040,Kavita,Marketing,Manager,4,46926
+EMP041,Sneha,Sales,Executive,2,90590
+EMP042,Amit,IT,Senior Executive,14,115111
+EMP043,Vikas,Marketing,Executive,12,62484
+EMP044,Karan,Sales,Team Lead,9,87495
+EMP045,Meena,Finance,Team Lead,2,34111
+EMP046,Neha,Operations,Senior Executive,2,109991
+EMP047,Isha,HR,Analyst,8,38799
+EMP048,Nikhil,Sales,Analyst,8,92175
+EMP049,Karan,Operations,Executive,4,86428
+EMP050,Deepak,HR,Executive,3,92759
+EMP051,Meena,Sales,Senior Executive,10,100478
+EMP052,Nikhil,Operations,Senior Executive,4,33186
+EMP053,Sneha,Finance,Manager,5,66355
+EMP054,Deepak,HR,Senior Executive,9,76423
+EMP055,Nikhil,HR,Manager,6,48781
+EMP056,Amit,HR,Analyst,8,114165
+EMP057,Kavita,Marketing,Manager,15,80007
+EMP058,Pooja,Marketing,Executive,1,35151
+EMP059,Isha,Operations,Manager,14,107979
+EMP060,Manoj,Finance,Manager,4,104572
+EMP061,Suresh,Support,Executive,1,45548
+EMP062,Neha,Sales,Senior Executive,11,67730
+EMP063,Rahul,Marketing,Executive,15,79478
+EMP064,Rahul,Marketing,Manager,6,38514
+EMP065,Sneha,Operations,Executive,2,47703
+EMP066,Deepak,Support,Analyst,15,71733
+EMP067,Karan,IT,Manager,13,39513
+EMP068,Meena,HR,Team Lead,8,114308
+EMP069,Amit,IT,Analyst,14,97867
+EMP070,Arjun,IT,Analyst,8,80149
+EMP071,Pooja,Marketing,Team Lead,15,56528
+EMP072,Amit,Marketing,Manager,6,98255
+EMP073,Ravi,IT,Executive,13,88652
+EMP074,Nikhil,IT,Executive,3,56954
+EMP075,Deepak,Support,Executive,3,69672
+EMP076,Nikhil,HR,Analyst,6,34722
+EMP077,Meena,IT,Executive,2,75304
+EMP078,Anita,Sales,Analyst,12,107300
+EMP079,Neha,Sales,Team Lead,4,101046
+EMP080,Neha,HR,Executive,8,86885
+EMP081,Anita,HR,Manager,3,33085
+EMP082,Vikas,Sales,Manager,13,90567
+EMP083,Vikas,Marketing,Analyst,9,97022
+EMP084,Arjun,Operations,Team Lead,14,114745
+EMP085,Vikas,Operations,Team Lead,13,70489
+EMP086,Meena,Sales,Team Lead,15,95468
+EMP087,Sneha,IT,Executive,8,116599
+EMP088,Suresh,Sales,Senior Executive,14,40971
+EMP089,Sneha,HR,Team Lead,11,91382
+EMP090,Amit,Support,Team Lead,5,40807
+EMP091,Rina,Support,Senior Executive,9,100058
+EMP092,Manoj,Sales,Analyst,7,86266
+EMP093,Priya,HR,Team Lead,7,41730
+EMP094,Swati,IT,Manager,6,88332
+EMP095,Rahul,HR,Analyst,10,77970
+EMP096,Ravi,IT,Executive,5,106491
+EMP097,Ravi,Support,Manager,14,94532
+EMP098,Isha,Support,Executive,9,51471
+EMP099,Sneha,Sales,Executive,3,77432
+EMP100,Vikas,Marketing,Executive,14,111720
